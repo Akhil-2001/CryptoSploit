@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590510662971",
+    "project_id": "cryptosploit-40dbd",
+    "storage_bucket": "cryptosploit-40dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590510662971:android:a168cdc67f2d84e071431e",
+        "android_client_info": {
+          "package_name": "com.example.cryptosploit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590510662971-e40lk1jasv1epsb4veim0h1dste2dgd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO8IO6xnwz9UiibSyzBbj3BvnjxwwT_Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590510662971-e40lk1jasv1epsb4veim0h1dste2dgd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
